@@ -1,0 +1,64 @@
+
+{
+  "api_config": {
+    "mainURL": "https://your-domain.com/api/",
+    "getOwner": "BlackSharkSeller",
+    "getTelegram": "https://t.me/BlackSharkSeller",
+    "activity": "Active",
+    "FixCrash": "disabled",
+    "EXP": "2026-12-31",
+    "ApiKeyBox": "YOUR_SECURE_KEY_HERE"
+  },
+  "gamesList": [
+    {
+      "title": "PUBG Mobile Global",
+      "package": "com.tencent.ig",
+      "version": "3.9.0",
+      "status": "Active",
+      "URLGAME": "https://download-link.com/global",
+      "URLJSON": "https://your-domain.com/config/global.json",
+      "drm_verion": "1.0.5"
+    },
+    {
+      "title": "PUBG Mobile Korea",
+      "package": "com.pubg.krmobile",
+      "version": "3.9.0",
+      "status": "Active",
+      "deskripsi": "PUBG Mobile versi Korea dengan konten eksklusif.",
+      "drm_verion": "1.0.5"
+    },
+    {
+      "title": "PUBG Mobile Vietnam",
+      "package": "com.vng.pubgmobile",
+      "version": "3.9.0",
+      "status": "Maintenance",
+      "deskripsi": "PUBG Mobile versi Vietnam, khusus server VNG.",
+      "drm_verion": "1.0.4"
+    },
+    {
+      "title": "PUBG Mobile Taiwan",
+      "package": "com.rekoo.pubgm",
+      "version": "3.9.0",
+      "status": "Active",
+      "deskripsi": "PUBG Mobile versi Taiwan dengan fitur lokal.",
+      "drm_verion": "1.0.3"
+    },
+    {
+      "title": "PUBG Mobile India",
+      "package": "com.pubg.imobile",
+      "version": "4.0.0",
+      "status": "Active",
+      "deskripsi": "PUBG Mobile versi Taiwan dengan fitur lokal.",
+      "drm_verion": "1.0.3"
+    },
+    {
+      "title": "Delta Force",
+      "package": "com.tianto.df",
+      "version": "1.0.0",
+      "status": "Active",
+      "URLGAME": "https://download-link.com/delta",
+      "URLJSON": "https://your-domain.com/config/delta.json",
+      "drm_verion": "1.0.1"
+    }
+  ]
+}
